@@ -1,0 +1,8 @@
+{
+  "UserName": "//input[contains(@id,'UserName') and @name='UserName']",
+  "NoResultMessage": "//a[contains(@href,'Employee') and contains(text(),'Employee List')]",
+  "SearchBox": "//input[contains(@placeholder,'Search') and @type='text']",
+  "DeletePageHeader": "//h3[contains(text(),'delete')]",
+  "LoginLink": "//a[contains(@id,'loginLink')]",
+  "EditPageHeader": "//h4[contains(text(),'Employee')]"
+}
